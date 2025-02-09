@@ -1,5 +1,7 @@
 # IITD Student Assistant Bot
 
+https://flows.mira.network/flows?author=virat&flow=iitd-info-bot
+
 This chatbot is designed to assist IIT Delhi students by providing quick and accurate information on a wide range of topics, from academic queries to general campus information. It leverages Mira Flows with RAG (Retrieval-Augmented Generation) to ensure responses are both informative and contextually relevant. The chatbot extracts information from official "Course of Study" documents and the BSW (Board for Student Welfare) website, covering course structures, registration processes, academic policies, student welfare initiatives, campus facilities, and more.
 
 ## Features
