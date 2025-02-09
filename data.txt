@@ -1,0 +1,354 @@
+### **IIT Delhi Academic Guidelines**
+
+### **1. Basic Course Related Information**
+
+- **Course Registration:**
+  - Slot system to prevent clashes.
+  - Each slot corresponds to a specific time in the timetable and exam schedule.
+
+- **Course Structure & Credit System:**
+  - **Course Numbering Scheme:**
+    - Prefix: Department code.
+    - Three-digit number: First digit (course level), second and third digits (course identifier).
+    - Example: "COL334 – Computer Networks (3-0-2)" (3 Lecture, 0 Tutorial, 2 Practical).
+  - **Credit System:**
+    - Lectures/Tutorials: 1 hour/week = 1 credit.
+    - Practicals: 2 hours/week = 1 credit.
+    - Minimum Passing Grade: D (30% marks).
+    - Credits required: B.Tech (148-158), M.Tech (65+).
+    - Audit Courses: Allowed but do not contribute to GPA.
+  - **Grading System:**
+    - Grades: A (10), A- (9), B (8), B- (7), C (6), C- (5), D (4), E (2), F (0).
+    - SGPA: Sum of (Credits × Grade Points) / Total Credits.
+    - CGPA: Sum of all SGPA values.
+    - Minimum CGPA: B.Tech (5.0), M.Tech (6.0).
+
+### **2. Add/Drop, Audit, and Withdrawal of Courses**
+
+- **Add/Drop:**
+  - Add or drop courses during the first week of the semester.
+  - Subject to course vacancies.
+- **Audit:**
+  - Audit courses worth 8 credits in OC/DE.
+  - Requires completion of at least 85 credits.
+  - Graded as Audit Pass (NP) or Audit Fail (NF).
+- **Withdrawal:**
+  - Apply before a specified deadline.
+  - Withdrawal grade (W) awarded.
+  - Permission needed for core courses.
+
+### **3. Re-Major**
+- Apply on medical grounds or for improving an E grade.
+- Held in the first week of the next semester.
+
+### **4. Humanities and Social Sciences (HUSS)**
+- Complete 15 credits in HUL (Hukke) over 4/5 years.
+- Includes courses in sociology, psychology, history, and economics.
+
+### **5. Open Courses / Electives**
+- **Open Category (OC):**
+  - Electives from any department.
+  - Minimum 10 credits required.
+- **Departmental Electives (DE):**
+  - Specific to a department.
+  - Minimum 14-15 credits required.
+
+### **6. Restart, Probation, and Faculty Advisor**
+- **Restart:**
+  - Option to restart degree if minimum credits not met.
+- **Probation:**
+  - Placed on probation if SGPA < 5 or drop of more than two in SGPA.
+- **Faculty Advisor:**
+  - Assigned to students on probation for guidance.
+
+### **7. Slow Paced Programme**
+- Option for students who fail to earn all credits in the first year but avoid restart.
+
+### **8. Department Change (DepC) and Roll Back**
+- **DepC:**
+  - Requires high CGPA cutoffs.
+  - Minimum grade (B) required in specific courses.
+- **Roll Back:**
+  - Transfer to a lower-ranked department.
+  - Requires minimum CGPA of 8.
+
+### **9. Non Graded Units (NGU)**
+- Courses graded as Pass (S) or Fail (Z).
+- Includes components like Introduction to Engineering, Language Skills, NCC/NSO/NSS, Professional Ethics, Communication Skills, and Design/Practical Experience.
+
+### **10. SURA, DISA, and Project Related Information**
+- **SURA:**
+  - Research projects for undergraduates.
+  - CGPA of 7.50 required.
+- **DISA:**
+  - Interdisciplinary design projects.
+  - Open to all students.
+- **1-2-3-4 Project:**
+  - Research projects involving students from different years.
+
+### **11. Internships**
+- **Summer Internship:**
+  - Minimum 40 working days.
+  - Earns 2 DPE units.
+- **Semester-Long Internship/Project:**
+  - Minimum 100 working days.
+  - Option for startup work.
+
+### **12. Semester Exchange**
+- Study one semester in a foreign university.
+- Requires CGPA of 8.0.
+
+### **13. BTP & MTP**
+- **BTP:**
+  - Bachelors Thesis Project.
+  - Compulsory Part 1, optional Part 2.
+- **MTP:**
+  - Masters Thesis Project.
+  - Both parts compulsory.
+
+### **14. Minor Degree and Department Specialization**
+- **Minor Degree:**
+  - Complete 20 credits in another department.
+  - Useful for career in a different field.
+- **Departmental Specialization:**
+  - Further knowledge in the same department.
+  - Requires 20 credits.
+
+### **15. Miscellaneous**
+- **Minor in Business Management:**
+  - Offered by Department of Management Studies (DMS).
+- **Disciplinary Actions:**
+  - Plagiarism, unauthorized vehicle use, illegal substances, attendance issues, ragging.
+- **Resources:**
+  - Websites for video lectures and notes.
+
+### **General Information**
+
+- **Academic System Overview:**
+  - Programs: Undergraduate (B.Tech, B.Des), Dual-Degree (B.Tech + M.Tech), Postgraduate (M.Tech, MBA, MSc, MPP, PhD).
+  - Instruction Medium: English.
+  - Semester System:
+    - 1st Semester: July – December
+    - 2nd Semester: January – May
+    - Summer Semester: May – July (if needed)
+  - Academic Units:
+    - Engineering Departments: Applied Mechanics, Computer Science, Electrical Engineering, etc.
+    - Interdisciplinary Schools: AI, Data Science, Energy Science, etc.
+    - Specialized Centres: Rural Development, Biomedical Engineering, Public Policy, etc.
+
+- **Entry Number System:**
+  - 11 characters: Year of admission, Program Code, Unique Student Identifier.
+  - New entry number issued if the program is changed.
+
+### **ADD/DROP Guidelines**
+
+- **General Requests:**
+  - Use "Student General Request" for prerequisite waivers and credit limit queries.
+  - Avoid duplicate requests; they will be deleted.
+
+- **Adding Humanities (HU) Courses:**
+  - UG students can add vacant HU courses via standard ADD procedure.
+  - Note: Once added, HU courses cannot be dropped.
+
+- **Registration Sync:**
+  - Takes 24 hours to sync across portals.
+  - Avoid immediate emails about missing courses on Moodle/Teams.
+
+- **Technical Notes:**
+  - Use a laptop/workstation for best experience; mobile browsers may not work well.
+
+- **Course Availability:**
+  - Check "Courses Offered" link if a course isn't in the search list.
+  - Contact the department for course offering or slot doubts.
+
+- **Course Categories:**
+  - Refer to Course of Study; updates may be ongoing.
+
+- **Approval Process:**
+  - Decisions made by course coordinators; do not email eacadhelp.
+
+- **Course Strength:**
+  - Contact coordinator for full non-HU courses; HU limits will not increase.
+
+### **Course Descriptions**
+
+- **Department-wise Course Listings:**
+  - Core Courses, Elective Courses, Project/Thesis Work, Research-Oriented Courses.
+
+### **Non-Graded Core (NGU) Requirements**
+
+- **Components:**
+  - Introduction to Engineering: 1 Unit.
+  - Language & Writing Skills: 2 Units.
+  - Communication Skills: 1 Unit.
+  - NCC/NSO/NSS: 1-2 Units.
+  - Professional Ethics & Social Responsibility: 1-2 Units.
+  - Design & Practical Experience: 3-5 Units.
+  - Total: 11 NGUs.
+
+### **Contact Information:**
+- Dean, Academics: deanacad@iitd.ac.in
+- Academic Office: drpgsr@iitd.ac.in
+
+# **1️⃣ IIT Delhi Overview**
+### **Vision**  
+- Excellence in **scientific & technical education and research**.  
+- Contributing to **India & the world**.  
+- Serving as a **valuable resource for industry & society**.  
+
+### **Mission**  
+- **Cutting-edge research** and **state-of-the-art UG/PG/PhD programs**.  
+- Identifying **specialized areas of focus**.  
+- **Academia-Industry collaboration** for innovation.  
+- **Developing leaders with intellectual excellence**.  
+
+---
+
+# **2️⃣ Student Activities & Councils**
+### **2.1 Board for Student Welfare (BSW)**  
+- **Ensures student rights, welfare & mentorship**.  
+- **Handles emergencies (financial, hostel, medical, etc.).**  
+- **Supports freshers’ orientation & mentorship programs.**  
+- **Manages student support systems:**
+  - **Student Mentorship & Counseling Services (SCS)**  
+  - **Students Co-Operative Society (SCOOPS)**  
+  - **Student-Teacher Interaction Council (STIC)**  
+  - **Organizes "Speranza" (IIT Delhi Youth Fest).**  
+
+### **2.2 Other Student Councils**  
+✅ **Board for Recreational & Creative Activities (BRCA):**  
+  - Manages clubs for **Dance, Drama, Music, Quizzing, Debate, Fine Arts, and more**.  
+
+✅ **Board for Sports Activities (BSA):**  
+  - Organizes **sports training, tournaments & inter-hostel events**.  
+
+✅ **Board for Student Publications (BSP):**  
+  - Manages **electronic & print media**, promoting student journalism.  
+
+✅ **Board for Hostel Management (BHM):**  
+  - Oversees **hostel infrastructure, mess services & events**.  
+
+✅ **Co-curricular & Academic Interaction Council (CAIC):**  
+  - Coordinates **academic clubs & departmental societies**.  
+
+✅ **Student Affairs Council (SAC):**  
+  - **Monitors all student councils** and serves as the **link to administration**.  
+
+---
+
+# **3️⃣ BSW Initiatives**
+### **3.1 Academic Mentorship**
+- **First-year students get mentors** to assist in coursework.  
+- **Academic Mentors (AMs)** conduct **hostel study sessions**.  
+
+### **3.2 Language Mentorship**  
+- Collaboration with **Humanities Department**.  
+- Teaches **English & Hindi** to students struggling with communication.  
+
+### **3.3 Alma Connect**  
+- **Links students with IIT Delhi alumni** for networking & career advice.  
+
+### **3.4 Mental Health Support**  
+- **Counseling services** to remove stigma around mental health.  
+
+### **3.5 BSW Booklets**
+✅ **Academic Booklet:** Information on **courses & IITD facilities**.  
+✅ **Finance Booklet:** Guide on **getting expense approvals**.  
+✅ **Scholarship Booklet:** **Lists & eligibility for scholarships**.  
+📍 **Available at:** [BSW Website](http://bsw.iitd.ac.in/booklets.php)  
+
+---
+
+# **4️⃣ Facilities Provided by IIT Delhi**
+### **4.1 Railway Reservation**  
+📍 **Location:** Near Jwalamukhi Hostel  
+⏰ **Timings:** Mon-Sat, 10:00 - 16:00  
+🚆 **50% student concession** for **travel during vacations**.  
+📄 **Form Link:** [Railway Concession Form](http://bsw.iitd.ac.in/forms/RailConcession.pdf)  
+
+### **4.2 Post Office**  
+📍 **Location:** Near Neelkanth Shopping Complex  
+⏰ **Timings:** Mon-Sat, 9:00 - 16:30  
+📬 **PIN Code:** **110016**  
+
+### **4.3 Medical Insurance & Emergencies**  
+- **IIT Delhi insures all students for medical emergencies.**  
+📍 **More Details:** [IITD Medical Fund](http://dos.iitd.ac.in/funds.php)  
+
+### **4.4 Food & Delivery Services**  
+✅ **Alluzo:** IIT Delhi’s online food delivery app.  
+✅ **Rajdhani Chatkare, Chaayos, Gupta Store** available for ordering.  
+
+### **4.5 Cycle Rentals**  
+✅ **LetUsCycle:** **Rent bicycles from cycle stands across campus.**  
+
+### **4.6 Licensed Software for Students**  
+✅ Free access to **Microsoft Office, Grammarly, AutoCAD, MATLAB & more**.  
+📍 **Download at:** [CSC Software Portal](http://www.cc.iitd.ac.in/CSC)  
+
+---
+
+# **5️⃣ IIT Delhi Rules & Policies**
+### **5.1 Motorized Vehicle Policy**  
+🚫 **No motorized vehicles allowed inside campus.**  
+🚔 **Penalty:**  
+- **₹5,000 fine for two-wheelers**.  
+- **₹10,000 fine for four-wheelers**.  
+
+### **5.2 Campus Gate Timings**  
+| **Gate** | **Opening Hours** |
+|----------|------------------|
+| Main Gate | 24/7 |
+| Hostel Gate | 05:00 - 23:00 |
+| JNU Gate | 05:00 - 22:00 |
+| Mehrauli Gate | 05:00 - 22:00 |
+
+### **5.3 Anti-Sexual Harassment & ICC Policy**
+🚨 **Sexual Harassment is NOT tolerated at IIT Delhi.**  
+📜 **Types of offenses include:**  
+- Physical contact, stalking, inappropriate messages, sexual favors.  
+📍 **Report incidents at:** [IITD ICC Policy](http://www.iitd.ac.in/content/anti-sexual-harassment-policy)  
+
+📞 **Women’s Helpline:** 26591000  
+
+---
+
+# **6️⃣ Internet & Network Access**
+### **6.1 Wi-Fi & LAN Setup**  
+✅ **Wi-Fi provided free** for all students.  
+❌ **Usage Restrictions:**  
+- **10GB daily data limit**.  
+- **No torrent downloads allowed**.  
+- **Max 8 devices per ID.**  
+
+### **6.2 Proxy Setup for Secure Browsing**  
+📍 **Proxy Configurations:**  
+- **Windows/Mac/Linux Browsers:** [IITD Proxy Settings](http://www.cc.iitd.ernet.in/cgi-bin/proxy.btech)  
+- **Category-based proxy access:** **btech, mtech, phd, faculty, guest, etc.**  
+
+---
+
+# **7️⃣ Services & Facilities in IITD**
+### **7.1 ATM Locations**
+✅ **SBI ATM:** Near SBI Bank, Nilgiri Hostel, Zanskar Hostel.  
+✅ **Canara Bank ATM:** Opposite Nescafe.  
+✅ **IndiCash ATM:** Near Karakoram Hostel.  
+
+### **7.2 General Stores**
+✅ **Gupta Store:** Opposite Nilgiri Hostel.  
+✅ **Neelkanth Shopping Complex:** (Girls Hostel Area).  
+
+### **7.3 SIM Card Recharge Outlets**
+✅ **Locations:** Himadri, Jwalamukhi, Karakoram, Kumaon, Satpura, SCOOPS.  
+
+### **7.4 Dining & Food Courts**
+✅ **Rajdhani Chatkare, Chaayos, CCD, Mother Dairy, Paratha Stalls.**  
+📍 **Near Academic Blocks, Hostels & Shopping Complex.**  
+
+---
+
+# **8️⃣ Contact Information**
+📍 **Dean, Academics:** **deanacad@iitd.ac.in**  
+📍 **Academic Office:** **drpgsr@iitd.ac.in**  
+📍 **BSW Website:** [bsw.iitd.ac.in](http://bsw.iitd.ac.in/)  
+
